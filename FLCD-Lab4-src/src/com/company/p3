@@ -1,0 +1,10 @@
+START
+let abd be list of numbers ;
+let a be number ;
+let b be number ;
+b is 0 ;
+ofr a from abd do ;
+b is sum of a , b ;
+until abd done ;
+show b ;
+END

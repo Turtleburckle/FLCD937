@@ -1,0 +1,10 @@
+START
+let a be number ;
+let b be number ;
+let c be number ;
+if b greater than a then
+a is b ;
+if c greater than a then
+a is c ;
+show a ;
+END
